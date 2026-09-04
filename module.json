@@ -1,0 +1,61 @@
+{
+  "id": "pf2e-mythic-revamped",
+  "title": "PF2e Mythic Revamped",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "14",
+    "maximum": "14"
+  },
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "pf2e-mr-journals",
+      "label": "Журналы",
+      "path": "packs/pf2e-mr-journals",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    },
+    {
+      "name": "pf2e-mr-feats",
+      "label": "Призвания и способности",
+      "path": "packs/pf2e-mr-feats",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Mythic Revamped",
+      "sorting": "m",
+      "color": "#8772da",
+      "packs": [
+        "pf2e-mr-feats",
+        "pf2e-mr-journals"
+      ],
+      "folders": []
+    }
+  ],
+  "authors": [
+    {
+      "name": "Echo",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/Allumielle/pf2e-mythic-revamped",
+  "manifest": "https://github.com/Allumielle/pf2e-mythic-revamped/releases/latest/download/module.json",
+  "download": "https://github.com/Allumielle/pf2e-mythic-revamped/releases/download/1.0/module.zip",
+  "description": ""
+}
