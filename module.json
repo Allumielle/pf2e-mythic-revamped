@@ -1,7 +1,7 @@
 {
   "id": "pf2e-mythic-revamped",
   "title": "PF2e Mythic Revamped",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "13",
     "verified": "14",
@@ -56,6 +56,6 @@
   ],
   "url": "https://github.com/Allumielle/pf2e-mythic-revamped",
   "manifest": "https://github.com/Allumielle/pf2e-mythic-revamped/releases/latest/download/module.json",
-  "download": "https://github.com/Allumielle/pf2e-mythic-revamped/releases/download/1.0/module.zip",
+  "download": "https://github.com/Allumielle/pf2e-mythic-revamped/releases/download/1.0.1/module.zip",
   "description": ""
 }
